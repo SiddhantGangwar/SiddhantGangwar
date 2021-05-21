@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SiddhantGangwar
-- 👀 I’m interested in problemsolving 
-- 🌱 I’m currently learning HTML and C++
+- 👀 I’m interested in problemsolving and competitive coding
+- 🌱 I’m currently learning HTML CSS Javascript and C++
 - 💞️ I’m looking to collaborate on good project
-- 📫 How to reach me +918273275569 call or whatsapp
+- 📫 How to reach me email id: siddhant.20204201@mnnit.ac.in
